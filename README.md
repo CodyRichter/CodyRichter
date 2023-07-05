@@ -1,6 +1,5 @@
 ## Hello, I'm Cody! 👋
 
-- 🎓 UMass Amherst Computer Science: **2023 (MS)**
-- ⌨ Technology Director: (HackUMass, HackHer413)
-- 🌐 Full Stack and Web Development
-- 🐳🐍☕ Docker, Python, Javascript
+- 🏢 Software Development Engineer @ **Amazon**
+- 🎓 UMass Amherst Computer Science: **2023 (MS)** & **2021 (BS)**
+- ☁️ Full Stack Development & Cloud Computing
